@@ -1,4 +1,4 @@
-# Hi there, I'm [Vladyslav Plakhov] 👋  
+# Hi there, I'm Vladyslav Plakhov 👋  
 
 ## 🔹 About Me  
 I am a Linux system administrator and cybersecurity enthusiast. Currently, I specialize in **Linux security auditing** and system hardening. My goal is to help businesses and individuals improve their security posture through **penetration testing, vulnerability assessments, and system optimization**.  
